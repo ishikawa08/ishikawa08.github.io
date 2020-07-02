@@ -1,5 +1,2 @@
 # Detail
-
-# Skills
-Python
-
+now working in progress
