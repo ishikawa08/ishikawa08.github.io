@@ -1,5 +1,3 @@
-# ishikawa08.github.io
+# My portfolio site
 
-portfolio site
-
-https://ishikawa08.github.io/
+See: https://ishikawa08.github.io/

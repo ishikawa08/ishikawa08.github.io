@@ -1,3 +1,5 @@
-# My Portfolio
+# Detail
 
-Now work in progress...
+# Skills
+Python
+
